@@ -10,6 +10,9 @@ namespace ProjectGit1
     {
         static void Main(string[] args)
         {
+            Console.Write("hello");
+            Console.Write("heeeej");
+
         }
     }
 }
