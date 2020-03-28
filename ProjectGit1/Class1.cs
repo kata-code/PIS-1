@@ -8,7 +8,7 @@ namespace ProjectGit1
 {
     class Class1
     {
-        void Metodaa()
+        void Metoda2()
         {
         }
     }
