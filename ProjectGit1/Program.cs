@@ -10,9 +10,11 @@ namespace ProjectGit1
     {
         static void Main(string[] args)
         {
+            //Console.Write("Uvod");
             Console.Write("hello");
             Console.Write("heeeej");
 
         }
     }
 }
+Dodala sam da program ispise rijec uvod.
